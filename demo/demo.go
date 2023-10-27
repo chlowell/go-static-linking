@@ -1,6 +1,6 @@
-package main 
+package main
 
-import "bridge"
+import "demo/bridge"
 
 func main() {
   bridge.Run()
